@@ -1,7 +1,7 @@
 # Load any website in your own domain 
 Load any website into your own website. For more updates follow on https://devsecit.com 
 
-### Credits goes 
+### Credit goes 
 Mr. Jit Banerjee - (CEHPOINT)
 
 Mr. Konko Maji 
